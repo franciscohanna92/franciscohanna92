@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**franciscohanna92/franciscohanna92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Francisco, a human that smashes keys for fun (and profit). 
 
-Here are some ideas to get you started:
+I've been doing this for `{getYearsSince('2015-03-01')}` years, and thus I know some tricks here and there.
 
-- 🔭 I’m currently working at @Kontactless
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work at [https://www.kontactless.io/](Kontactless)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franciscohanna92&show_icons=true&locale=en" alt="My github stats" /></p>
+You can see my work experience (and contact me) on [linkedin](https://www.linkedin.com/in/femhanna/)
 
+Bye.
